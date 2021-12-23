@@ -4,11 +4,11 @@
 </p>
  
 ##
+- 🔭 I’m currently working on ReactJs , VueJs
+- 🌱 Also Working with JavaScript,TypeScript , Sass and FrameWorks (BootStrap , TailWind)
+- 📫 How to reach me: ahmedbarakat2401@gmail.com
+- 😄 My website: https://medobarakat.github.io/My-Portfolio-Site/
+- 💬 Ask me anything about Frontend
+- ⚡ lookout for new opportunities ..
 
-I'm Good with Html , Css , JavaScript
-Working withSass and FrameWorks (BootStrap , TailWind) Also With JavaScript,TypeScript
-I love ReactJs (Redux , React Router , Styled Components ...etc)
-Also VueJs ( Vue Router , VueX ... etc)
-I Can Also Work With NodeJs , Express.
 ##
- lookout for new opportunities ..
