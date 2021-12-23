@@ -1,6 +1,6 @@
  
  <p align="center">
-  <a href="#"><img src="https://i.postimg.cc/vBZvPKzk/Hi-Iam-Ahmed-2.png" width="1100px" title="hover text"></a>
+  <a href="#"><img src="https://i.postimg.cc/vBZvPKzk/Hi-Iam-Ahmed-2.png" width="1100px" title="Header"></a>
 </p>
  
 ##
@@ -12,3 +12,6 @@
 - ⚡ lookout for new opportunities ..
 
 ##
+<p align="center">
+  <a href="#"><img src="https://i.postimg.cc/NMQGV5dC/Untitled-design-1.png" width="1100px" title="Footer"></a>
+</p>
