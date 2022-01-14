@@ -23,6 +23,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-redux-333333?style=flat&logo=redux)
   ![Sass](https://img.shields.io/badge/-sass-333333?style=flat&logo=sass)
+  ![TypeScript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
   ![Jquery](https://img.shields.io/badge/-jquery-333333?style=flat&logo=jquery)
 
 - 🌐 &nbsp;
