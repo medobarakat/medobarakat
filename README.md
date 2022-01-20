@@ -37,7 +37,7 @@
 
 #
 
- <h3> 🤝🏻 &nbsp;Connect with Me</h3>
+ <h3> 🤝🏻 &nbsp;Connect with Me On</h3>
 
 <p align="center">
 <a href="https://medobarakat.github.io/My-Portfolio-Site/"><img alt="Website" src="https://img.shields.io/badge/Website-My Porfolio Link-blue?style=flat-square&logo=google-chrome"></a>
