@@ -9,7 +9,7 @@
 - 📫 Making A Fully Responsive Website
 - 😄 My website: [My Portfolio](https://ahmedporfolio.vercel.app/)
 - ✨ Currently Learning React Native and keep going
-- 💬 Ask me anything about Frontend ..
+- 💬 Ask me anything about Frontend , Mobile Native Apps ..
 - ⚡ lookout for new opportunities ..
 - 📫 Check Out My CV : [My CV](https://docs.google.com/document/d/1krMykigI_SnC5yOOCTSrRA6WZsZX9HXkyCYgRAr9Dao/edit)
 
