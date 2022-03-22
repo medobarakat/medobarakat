@@ -5,10 +5,11 @@
  
 ##
 - 🔭 I’m currently working on ReactJs , VueJs
+- 📱 Working on React Native
 - 🌱 Also Working with JavaScript,TypeScript , Sass and FrameWorks (BootStrap , TailWind)
 - 📫 Making A Fully Responsive Website
 - 😄 My website: [My Portfolio](https://ahmedporfolio.vercel.app/)
-- ✨ Currently Learning React Native and keep going
+- ✨ Currently Learning new Technology and keep going
 - 💬 Ask me anything about Frontend , Mobile Native Apps ..
 - ⚡ lookout for new opportunities ..
 - 📫 Check Out My CV : [My CV](https://docs.google.com/document/d/1krMykigI_SnC5yOOCTSrRA6WZsZX9HXkyCYgRAr9Dao/edit)
@@ -26,6 +27,11 @@
   ![Sass](https://img.shields.io/badge/-sass-333333?style=flat&logo=sass)
   ![TypeScript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
   ![Jquery](https://img.shields.io/badge/-jquery-333333?style=flat&logo=jquery)
+  
+  
+- 📱 &nbsp;
+  ![React Native](https://img.shields.io/badge/-reactnative-333333?style=flat&logo=reactnative)
+
 
 - 🌐 &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
