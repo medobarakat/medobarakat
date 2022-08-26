@@ -4,7 +4,7 @@
 </p>
  
 ##
-- 🔭 I’m currently working on ReactJs , VueJs.
+- 🔭 I’m currently working on ReactJs , VueJs..
 - 📱 Working on React Native
 - 🌱 Also Working with JavaScript,TypeScript , Sass and FrameWorks (BootStrap , TailWind)
 - 📫 Making A Fully Responsive Website
