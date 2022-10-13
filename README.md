@@ -5,7 +5,7 @@
  
 ##
 - 🔭 I’m currently working on ReactJs , VueJs.
-- 📱 Working on React Native, learning new tech
+- 📱 Working on React Native, learning new tech.
 - 🌱 Also Working with JavaScript,TypeScript , Sass and FrameWorks (BootStrap , TailWind)
 - 📫 Making A Fully Responsive Website.
 - 😄 My website: [My Portfolio](https://ahmedporfolio.vercel.app/)
