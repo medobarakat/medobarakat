@@ -4,9 +4,10 @@
 </p>
  
 ##
-- 🔭 I’m currently working on ReactJs , VueJs. ... Learning Python...
-- 📱 Working on React Native, learning new tech...
+- 🔭 I’m currently working on ReactJs , VueJs. ... Learning Angular...
+- 📱 Working on React Native, As A Mobile Developer And Learning More...
 - 🌱 Also Working with JavaScript,TypeScript , Sass and FrameWorks (BootStrap , TailWind)...
+- 🔥 Learned Python As A New Achievement..
 - 📫 Making A Fully Responsive Website..
 - 😄 My website: [My Portfolio](https://ahmedporfolio.vercel.app/)
 - ✨ Currently Learning new Technology , Improving My Coding and keep going , newer projects will be soon added ..
@@ -26,6 +27,7 @@
   ![Redux](https://img.shields.io/badge/-redux-333333?style=flat&logo=redux)
   ![Sass](https://img.shields.io/badge/-sass-333333?style=flat&logo=sass)
   ![TypeScript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
+  ![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
   ![Jquery](https://img.shields.io/badge/-jquery-333333?style=flat&logo=jquery)
   
   
