@@ -12,7 +12,7 @@
 - 😄 My website: [My Portfolio](https://ahmedporfolio.vercel.app/)
 - ✨ Currently Learning new Technology , Improving My Coding and keep going , newer projects will be soon added ..
 - 💬 Ask me anything about Frontend , Mobile Native Apps ..
-- ⚡ lookout for new opportunities 
+- ⚡ lookout for new opportunities .
 - 📫 Check Out My CV : [My CV](https://docs.google.com/document/d/1krMykigI_SnC5yOOCTSrRA6WZsZX9HXkyCYgRAr9Dao/edit)
 
 #
