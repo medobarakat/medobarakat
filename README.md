@@ -1,23 +1,20 @@
- 
  <p align="center">
   <a href="#"><img src="https://i.postimg.cc/6pQz7sVb/my-github-header.jpg" width="1100px" title="Header"></a>
 </p>
- 
-##
-- 🔭 I’m currently working on ReactJs , VueJs. ... Learning Angular.
-- 📱 Working on React Native, As A Mobile Developer And Learning More..
-- 🌱 Also Working with JavaScript,TypeScript , Sass and FrameWorks (BootStrap , TailWind)..
-- 🔥 Learned Python As A New Achievement..
-- 📫 Making A Fully Responsive Website..
-- 😄 My website: [My Portfolio](https://ahmedporfolio.vercel.app/)
-- ✨ Currently Learning new Technology , Improving My Coding and keep going , newer projects will be soon added ..
-- 💬 Ask me anything about Frontend , Mobile Native Apps ..
-- ⚡ lookout for new opportunities .
-- 📫 Check Out My CV : [My CV](https://docs.google.com/document/d/1krMykigI_SnC5yOOCTSrRA6WZsZX9HXkyCYgRAr9Dao/edit)
 
-#
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## 👨‍💻 About Me
+- 🔭 I’m currently working on ReactJs, VueJs, and learning Angular
+- 📱 I'm a mobile developer working with React Native, and constantly learning more
+- 🌱 I'm experienced with JavaScript, TypeScript, Sass, and frameworks like Bootstrap and Tailwind
+- 🔥 I recently learned Python, and am proud of this new achievement
+- 📫 I'm passionate about creating fully responsive websites
+- 😄 Check out my website at [My Portfolio](https://ahmedporfolio.vercel.app/)
+- ✨ I'm constantly learning new technologies, improving my coding, and working on new projects that will soon be added to my portfolio
+- 💬 Ask me anything about frontend development or mobile native apps
+- ⚡ I'm always on the lookout for new opportunities
+- 📫 Check out my CV: [My CV](https://docs.google.com/document/d/1krMykigI_SnC5yOOCTSrRA6WZsZX9HXkyCYgRAr9Dao/edit)
 
+## 🛠️ Tech Stack
 - 💻 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -27,8 +24,8 @@
   ![Redux](https://img.shields.io/badge/-redux-333333?style=flat&logo=redux)
   ![Sass](https://img.shields.io/badge/-sass-333333?style=flat&logo=sass)
   ![TypeScript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
-  ![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
-  ![Jquery](https://img.shields.io/badge/-jquery-333333?style=flat&logo=jquery)
+  ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+  ![jQuery](https://img.shields.io/badge/-jquery-333333?style=flat&logo=jquery)
   
   
 - 📱 &nbsp;
@@ -49,9 +46,8 @@
 #
 
  <h3> 🤝🏻 &nbsp;Connect with Me On</h3>
-
 <p align="center">
-<a href="https://ahmedporfolio.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-My Porfolio Link-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ahmed-barakat-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmed%20barakat-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:ahmedbarakat2401@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ahmedbarakat2401@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://ahmedporfolio.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-My Portfolio-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/ahmed-barakat-dev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmed Barakat-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:ahmedbarakat2401@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-ahmedbarakat2401@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
