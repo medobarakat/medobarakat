@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on ReactJs, VueJs, and learning Angular
 - 📱 I'm a mobile developer working with React Native, and constantly learning more
 - 🌱 I'm experienced with JavaScript, TypeScript, Sass, and frameworks like Bootstrap and Tailwind
-- 🔥 I recently learned Python, and am proud of this new achievement.
+- 🔥 I recently learned Python, and am proud of this new achievement
 - 📫 I'm passionate about creating fully responsive websites
 - 😄 Check out my website at [My Portfolio](https://ahmedporfolio.vercel.app/)
 - ✨ I'm constantly learning new technologies, improving my coding, and working on new projects that will soon be added to my portfolio
