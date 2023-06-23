@@ -22,6 +22,8 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-redux-333333?style=flat&logo=redux)
+    ![angular](https://img.shields.io/badge/-angular-333333?style=flat&logo=angular)
+ ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white&color=35495E)
   ![Sass](https://img.shields.io/badge/-sass-333333?style=flat&logo=sass)
   ![TypeScript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
   ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
