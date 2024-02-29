@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on ReactJs, VueJs, and Angular ...
 - 📱 I'm a mobile developer working with React Native, and constantly learning more ..
-- 🌱 I'm experienced with JavaScript, TypeScript, Sass, and frameworks like Bootstrap and Tailwind ...
+- 🌱 I'm experienced with JavaScript, TypeScript, Sass, and frameworks like Bootstrap and Tailwind ..
 - 🔥 I recently learned Python, and am proud of this new achievement
 - 📫 I'm passionate about creating fully responsive websites
 - 😄 Check out my website at [My Portfolio](https://ahmedporfolio.vercel.app/)
