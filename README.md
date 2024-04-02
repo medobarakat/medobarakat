@@ -10,7 +10,7 @@
 - 📫 I'm passionate about creating fully responsive websites ..
 - 😄 Check out my website at [My Portfolio](https://ahmedporfolio.vercel.app/)
 - ✨ I'm constantly learning new technologies, improving my coding, and working on new projects that will soon be added to my portfolio ..
-- 💬 Ask me anything about frontend development or mobile native apps
+- 💬 Ask me anything about frontend development or mobile native apps..
 - ⚡ I'm always on the lookout for new opportunities
 - 📫 Check out my CV: [My CV](https://docs.google.com/document/d/1krMykigI_SnC5yOOCTSrRA6WZsZX9HXkyCYgRAr9Dao/edit)
 
