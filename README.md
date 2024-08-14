@@ -3,7 +3,7 @@
 </p>
 
 ## 👨‍💻 About Me
-Hello! I'm Ahmed, a passionate frontend and mobile developer. I specialize in building responsive and dynamic web applications using React, Vue, and Angular. Currently, I'm expanding my skills in mobile development with React Native and Kotlin for Android.
+Hello! I'm Ahmed, a passionate frontend and mobile developer. I specialize in building responsive and dynamic web applications using React, Vue, and Angular. Currently, I'm expanding my skills in mobile development with React Native and Kotlin for Android..
 
 - 🔭 I’m currently working on ReactJs, VueJs, and Angular.
 - 📱 I'm a mobile developer working with React Native, and currently learning Native Android with Kotlin.
