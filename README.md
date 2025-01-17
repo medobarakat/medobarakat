@@ -45,6 +45,11 @@ Hello! I'm Ahmed, a passionate frontend and mobile developer. I specialize in bu
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=medobarakat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 ## 🤝🏻 Connect with Me On
 <p align="center">
   <a href="https://ahmedporfolio.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-My%20Portfolio-blue?style=flat-square&logo=google-chrome"></a>
