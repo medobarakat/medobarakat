@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="#"><img src="https://i.postimg.cc/hPdC9Y6P/Black-Flatlay-Photo-Motivational-Finance-Quote-Facebook-Cover-1.png" width="1100px" title="Header"></a>
-</p>
-
 ## 👨‍💻 About Me
 
 Hey there! I'm **Ahmed Barakat**, a passionate frontend and mobile developer. I build responsive, user-friendly web and mobile apps using modern technologies like **React**, **Vue**, and **Angular**. Recently, I’ve been diving into mobile development with **React Native** and **Kotlin** for Android.
