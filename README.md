@@ -9,10 +9,6 @@
   Transforming ideas into scalable digital products with performance-driven engineering.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=medobarakat&label=Profile%20Views&color=0ea5e9&style=flat" />
-</p>
-
 ---
 
 # 👨‍💻 About Me
