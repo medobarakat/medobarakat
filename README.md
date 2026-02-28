@@ -46,7 +46,7 @@ Hi 👋 I'm **Ahmed Barakat**, a results-driven **FullStack & Mobile Developer**
 ## 📱 Mobile Engineering
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,android,java,kotlin,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,androidstudio,java,kotlin,flutter" />
 </p>
 
 ---
@@ -68,24 +68,6 @@ Hi 👋 I'm **Ahmed Barakat**, a results-driven **FullStack & Mobile Developer**
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=medobarakat&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-# 🌟 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/medobarakat/project-one" target="_blank">
-  <img src="https://img.shields.io/badge/Project%201-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/medobarakat/project-two" target="_blank">
-  <img src="https://img.shields.io/badge/Project%202-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/medobarakat/project-three" target="_blank">
-  <img src="https://img.shields.io/badge/Project%203-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 </p>
 
 ---
